@@ -24,6 +24,8 @@ You can see response:
     "typeofbuild": "Release; x86",  \
     "winsdkver": "10.0.22621.0"  \
 }  
+This is example: fields "appversion" and "datetime" can store differ values.
+
 This requests are supported: \
 http://localhost:5200/entire-hubs-tree  \
 http://localhost:5200/entire-active-tree  
