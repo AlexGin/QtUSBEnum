@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtUSBEnum", "QtUSBEnum.vcxproj", "{F489A62D-AF2D-3590-B635-6736C75C4BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F489A62D-AF2D-3590-B635-6736C75C4BBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F489A62D-AF2D-3590-B635-6736C75C4BBD}.Debug|x86.Build.0 = Debug|Win32
+		{F489A62D-AF2D-3590-B635-6736C75C4BBD}.Release|x86.ActiveCfg = Release|Win32
+		{F489A62D-AF2D-3590-B635-6736C75C4BBD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1526CE-4158-4CDC-9CBE-5E791A288B2D}
+	EndGlobalSection
+EndGlobal
