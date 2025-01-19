@@ -27,7 +27,7 @@ You can see response:
 This requests are supported: \
 http://localhost:5200/entire-hubs-tree  \
 http://localhost:5200/entire-active-tree  
-etc... \
+etc... 
 
 In the file CFGUSBEnum.ini - section [USB_ENUM_UDP_SETTINGS] - defined rules of \
-notifivations over UDP to client, when the USB device attach or detach.  \
+notifivations over UDP to client, when the USB device attach or detach.  
